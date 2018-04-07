@@ -6,4 +6,4 @@ Instructions To Run
 3. After packages get installed, run ‘node server.js’
 4. Open the browser and type in the address bar ‘localhost:5050’
 6. The output is displayed
-7. The logic is implimented in server.js file
+7. The logic is implemented in server.js file and development.log file is included in the files.
